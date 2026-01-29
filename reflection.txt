@@ -1,0 +1,7 @@
+
+I usually use VCStudio, I find this one the best since their extensions allow usage of countless language.
+
+I have little to no experience using vi or any other terminal based editor.
+
+The main disadvantage of using a terminal based editor for coding in practice is that with no ui features, it is difficult to remember which mode you are in and if the button you press when activate an action or type that letter.
+The main advantage is you are able to do and control what ever you want directly.
